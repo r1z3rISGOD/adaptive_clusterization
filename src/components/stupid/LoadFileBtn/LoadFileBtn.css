@@ -2,3 +2,7 @@
     height: 30px;
     width: 90px;
 }
+
+.load_file_input {
+    display: none;
+}
